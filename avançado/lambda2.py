@@ -1,0 +1,1 @@
+#Desenvolva um programa que leia um número qualquer e informe se ele é par ou ímpar

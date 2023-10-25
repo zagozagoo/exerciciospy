@@ -1,0 +1,1 @@
+#Desenvolva um programa que leia o seu nome completo e que apresente somente o seu primeiro e último nomes
